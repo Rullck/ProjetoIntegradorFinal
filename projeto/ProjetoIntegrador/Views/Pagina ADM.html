@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+      </httpProtocol>
+    <head>
+        <title>Pagina ADM</title>
+        <meta charset="utf-8">
+
+        <script src="./scripts/jquery-3.6.0.js"></script>
+        <script src="./scripts/PaginaADM.js"></script>
+        <link rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <div id="nav-placeholder">
+                
+            </div>
+
+            <br>
+            
+
+            <div class="row justify-content-center">
+                <div class="col-md-4">
+                    <h3>
+                        <center>Alteração</center>
+                    </h3>
+
+                    <form name="formulario" autocomplete="off">
+
+                        <input type="hidden" class="form-control" id="idInput">
+
+                        <div class="form-group">
+                            <label for="notainput">Nota</label>
+                            <input type="number" class="form-control" id="notainput">
+                        </div>
+
+                        <div class="form-group">
+                          <label for="comentarioinput">Comentario</label>
+                          <input type="textarea" class="form-control" id="comentarioinput">
+                        </div>
+
+                        <div class="form-group">
+                          <label for="disciplinainput">Disciplina</label>
+                          <input type="number" class="form-control" id="disciplinainput">
+                        </div>
+
+                        <button type="button" id="salvarBtn" class="btn btn-primary" onclick="atualizar()">Atualizar</button>
+                        <button type="button" class="btn btn-primary" onclick="limpar()">Limpar</button>
+
+                    </form>
+                </div>
+
+                <hr>
+
+                <div class="col-md-8">
+                    <h3>
+                        <center>Avaliações registradas</center>
+                    </h3>
+                    <div class="form-group">
+
+                      <p>
+                          <label>Filtrar por Disciplina:</label>
+                          <select id="disciplinaSelect" class="form-control" onchange="listaAvaliacaoPorDisciplina();">
+                              <option value="0">Selecione a disciplina....</option>
+                          </select>
+                      </p>
+
+                      <p>
+                          <label for="orderCrescente">Ordenar:</label> 
+                          <button id="orderCrescente" type="button" class="btn btn-secondary" onclick="listarGridCrescente();">Nota &darr; </button>
+                          <button id="orderDecrescente" type="button" class="btn btn-secondary" onclick="listarGridDecrescente();">Nota &uarr;</button>
+                          <button id="orderDecrescente" type="button" class="btn btn-secondary" onclick="listarGrid();">Padrão</button>
+                      </p>
+                      
+                    </div>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr class="text-center">
+                                <th>NOTA</th>
+                                <th>COMENTARIO</th>
+                                <th>DISCIPLINA</th>
+                                <th>AÇOES</th>
+                            </tr>
+                        </thead>
+                        <tbody id="grid">
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </body>
+    <httpProtocol>
+        <customHeaders>
+          <add name="Access-Control-Allow-Origin" value="*" />
+          <add name="Access-Control-Allow-Headers" value="Content-Type" />
+          <add name="Access-Control-Allow-Methods" value="GET, POST, PUT, DELETE, OPTIONS" />
+        </customHeaders>
+
+</html>

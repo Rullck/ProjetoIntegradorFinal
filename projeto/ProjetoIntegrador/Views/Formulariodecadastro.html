@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.0/css/bulma.css"/>
+        <link rel="stylesheet" href="styles/asd.css">
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="scripts/java.js"></script>
+    </head>
+    <body >
+        <form class="box" name="formulario">
+            <div class="columns is-mobile">
+                <div class="column is-4 is-offset-4">
+                    <div class="box">
+                        <article class="media">
+                          <div class="media-left">
+                            <figure class="image is-128x128">
+                              <img src="styles/unknown.png" alt="Image">
+                            </figure>
+                          </div>
+                          <div class="media-content">
+                            <div class="content">
+                              <p>
+                                <strong>Sistema de Avaliação</strong> 
+                                <br>
+                                Faça uma avaliação da aula de hoje e fique a vontade para deixar um comentário.
+                              </p>
+                            </div>
+                            <nav class="level is-mobile">
+                              <div class="level-left">
+                                <a class="level-item" aria-label="reply">
+                                  <span class="icon is-small">
+                                    <i class="fas fa-reply" aria-hidden="true"></i>
+                                  </span>
+                                </a>
+                                <a class="level-item" aria-label="retweet">
+                                  <span class="icon is-small">
+                                    <i class="fas fa-retweet" aria-hidden="true"></i>
+                                  </span>
+                                </a>
+                                <a class="level-item" aria-label="like">
+                                  <span class="icon is-small">
+                                    <i class="fas fa-heart" aria-hidden="true"></i>
+                                  </span>
+                                </a>
+                              </div>
+                            </nav>
+                          </div>
+                        </article>
+                      </div>
+                </div>
+            </div>
+
+
+
+            <div class="column is-offset-4">
+              <div class="column is-narrow ">
+                  <div style="width: 550px;">
+                    <label for="disciplina" id="label">1.Qual disciplina deseja avaliar?</label><br>
+                        
+                    <select name="disciplina" id="disciplina">
+                      <option value="1">UX</option>
+                      <option value="2">Projeto Integrador</option>
+                      <option value="3">Análise de projeto</option>
+                      <option value="4">DEV Mobile</option>
+                    </select>
+                  </div>
+              </div>
+            </div><br>
+
+            <div>
+                <label id="label">2.Avalie sua aula</label>
+                <!-- RATE -->
+                <section id="rate" class="rating">
+                    <!-- FIFTH STAR -->
+                    <input type="radio" id="star_5" name="rate" value="5" />
+                    <label for="star_5" title="Five">&#9733;</label>
+                    <!-- FOURTH STAR -->
+                    <input type="radio" id="star_4" name="rate" value="4" />
+                    <label for="star_4" title="Four">&#9733;</label>
+                    <!-- THIRD STAR -->
+                    <input type="radio" id="star_3" name="rate" value="3" />
+                    <label for="star_3" title="Three">&#9733;</label>
+                    <!-- SECOND STAR -->
+                    <input type="radio" id="star_2" name="rate" value="2" />
+                    <label for="star_2" title="Two">&#9733;</label>
+                    <!-- FIRST STAR -->
+                    <input type="radio" id="star_1" name="rate" value="1" />
+                    <label for="star_1" title="One">&#9733;</label>
+                </section>
+                                
+            </div>
+
+            <div class="column is-offset-4">
+                <div class="column is-narrow ">
+                    <div style="width: 550px;">
+                    <label id="label">3.Faça um comentário sobre a aula</label><br>
+                        
+                    <textarea class="textarea is-hovered "  placeholder="Insira aqui seu comentário" id="comentario1"></textarea>
+                    </div>
+                </div>
+            </div><br>
+            <div>
+                <button class="button is-info is-rounded" onclick="enviar()">Enviar</button> 
+            </div>
+        </form>
+
+        <div>
+            <button class="button is-warning"  onclick="window.location.href='Pagina ADM.html'">ADM</button> 
+        </div>
+    
+        
+  </body>
+  
+</html>

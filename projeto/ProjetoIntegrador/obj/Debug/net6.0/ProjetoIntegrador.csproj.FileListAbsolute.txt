@@ -1,0 +1,120 @@
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.staticwebassets.runtime.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.exe
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.deps.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.runtimeconfig.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\scopedcss\bundle\ProjetoIntegrador.styles.css
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\refint\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ref\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucas\Desktop\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CopyComplete
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.staticwebassets.runtime.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.exe
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.deps.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.runtimeconfig.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\scopedcss\bundle\ProjetoIntegrador.styles.css
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CopyComplete
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\refint\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Trabalho faculdade\Projeto int\ProjetoIntegrador\obj\Debug\net6.0\ref\ProjetoIntegrador.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\appsettings.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.staticwebassets.runtime.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.exe
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.deps.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.runtimeconfig.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\Humanizer.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\scopedcss\bundle\ProjetoIntegrador.styles.css
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CopyComplete
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\refint\ProjetoIntegrador.dll
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.genruntimeconfig.cache
+C:\Users\joaop\Downloads\Baumann\ProjetoIntegrador (2)\ProjetoIntegrador\obj\Debug\net6.0\ref\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.staticwebassets.runtime.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.exe
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.deps.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.runtimeconfig.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\scopedcss\bundle\ProjetoIntegrador.styles.css
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.csproj.CopyComplete
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\refint\ProjetoIntegrador.dll
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.pdb
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ProjetoIntegrador.genruntimeconfig.cache
+C:\Users\lucas\Desktop\ProjetoIntegrador\obj\Debug\net6.0\ref\ProjetoIntegrador.dll
